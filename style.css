@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    background: rgb(69,16,129);
-    background: radial-gradient(circle, rgba(69,16,129,1) 35%, rgba(136,52,147,1) 57%, rgba(19,223,183,0.938813025210084) 100%);
-        font-family: 'Courier New', Courier, monospace;
+    background: rgb(34,193,195);
+    background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(70,94,74,1) 47%, rgba(185,81,7,1) 100%);
+         font-family: 'Courier New', Courier, monospace;
 }
 h1{
     text-align: center;
